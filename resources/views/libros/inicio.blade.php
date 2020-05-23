@@ -72,6 +72,42 @@
           </div>
         </div>
 
+        <div class="col-md-4" style="margin-top:20px">
+          <div class="card mb-4 shadow-sm">
+            <a href="{{url('Las-Mejores-Recetas-de-la-Comida-Peruana')}}#Las-Mejores-Recetas-de-la-Comida-Peruana"><img src="{{asset('assest/img/receta_comida_peruana.jpg')}}" aria-label="Placeholder: Thumbnail"></a>
+
+            <div class="card-body">
+              <!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
+              <h2><small class="text-muted"><strong>Las Mejores Recetas de la Comida Peruana</strong></small></h2>
+              <div class="d-flex justify-content-between align-items-center">
+                <h3><small class="text-muted"><strong>Precio USD: 6.99</strong></small></h3>
+                <div class="btn-group">
+                  <a href="{{url('Las-Mejores-Recetas-de-la-Comida-Peruana')}}#Las-Mejores-Recetas-de-la-Comida-Peruana" type="button" class="btn btn-success">Ver más</a>
+                  <a href="{{url('Las-Mejores-Recetas-de-la-Comida-Peruana')}}#Las-Mejores-Recetas-de-la-Comida-Peruana" type="button" class="btn btn-primary" style="margin-left:4px">Comprar</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4" style="margin-top:20px">
+          <div class="card mb-4 shadow-sm">
+            <a href="{{url('Machu-Picchu')}}#Machu-Picchu"><img src="{{asset('assest/img/machu_picchu.jpg')}}" aria-label="Placeholder: Thumbnail"></a>
+
+            <div class="card-body">
+              <!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
+              <h2><small class="text-muted"><strong>Machu Picchu</strong></small></h2>
+              <div class="d-flex justify-content-between align-items-center">
+                <h3><small class="text-muted"><strong>Precio USD: 4.99</strong></small></h3>
+                <div class="btn-group">
+                  <a href="{{url('Machu-Picchu')}}#Machu-Picchu" type="button" class="btn btn-success">Ver más</a>
+                  <a href="{{url('Machu-Picchu')}}#Machu-Picchu" type="button" class="btn btn-primary" style="margin-left:4px">Comprar</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!-- <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>

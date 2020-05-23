@@ -22,6 +22,9 @@ Route::get('Publicidad', 'Web\PageController@index')->name('index');
 
 //libros
 
+
+//Guía de Urbanidad y Valores
+
 Route::get('/Guia-de-Urbanidad-y-Valores', function(){
 	return view('libros.Guia-de-Urbanidad-y-Valores');
 });
@@ -33,11 +36,38 @@ Route::get('/Guia-de-Urbanidad-y-Valores-Descarga', function(){
 
 
 
+//Su Tiempo Es Oro
 Route::get('/Su-Tiempo-Es-Oro', function(){
 	return view('libros.Su-Tiempo-Es-Oro');
 });
+
+Route::get('/Su-Tiempo-Es-Oro-Descarga', function(){
+	return view('libros.Su-Tiempo-Es-Oro-Descarga');
+});
+
+
+//Las-Mejores-Recetas-de-la-Comida-Peruana
+Route::get('/Las-Mejores-Recetas-de-la-Comida-Peruana', function(){
+	return view('libros.Las-Mejores-Recetas-de-la-Comida-Peruana');
+});
+
+Route::get('/Las-Mejores-Recetas-de-la-Comida-Peruana-Descarga', function(){
+	return view('libros.Las-Mejores-Recetas-de-la-Comida-Peruana-Descarga');
+});
+
+//Machu Picchu
+Route::get('/Machu-Picchu', function(){
+	return view('libros.Machu-Picchu');
+});
+
+Route::get('/Las-Mejores-Recetas-de-la-Comida-Peruana-Descarga', function(){
+	return view('libros.Machu-Picchu-Descarga');
+});
+
 
 
 Route::get('/Gracias-por-confiar-en-nosotros', function(){
 	return view('libros.Gracias-por-confiar-en-nosotros');
 });
+
+
