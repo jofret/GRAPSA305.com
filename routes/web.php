@@ -20,22 +20,17 @@ Route::get('/', 'Web\PageController@inicio')->name('inicio');
 
 Route::get('Publicidad', 'Web\PageController@index')->name('index');
 
+//libros
+
 Route::get('/Guia-de-Urbanidad-y-Valores', function(){
 	return view('libros.Guia-de-Urbanidad-y-Valores');
 });
 
-Route::get('dashboard', function () {
-    return redirect('home/dashboard');
-});
 
 Route::get('/Guia-de-Urbanidad-y-Valores-Descarga', function(){
 	return view('libros.Guia-de-Urbanidad-y-Valores-Descarga');
 });
 
-
-/*Route::get('/Guia-de-Urbanidad-y-Valores-Descarga', function () {
-    return redirect('descargas/dashboard');
-});*/
 
 
 Route::get('/Su-Tiempo-Es-Oro', function(){
