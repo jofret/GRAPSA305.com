@@ -1,9 +1,9 @@
 @extends('index')
 @section('content')
-<section class="container" style="padding-top:80px;" id="Guia-de-Urbanidad-y-Valores">
+<section class="container" style="padding-top:80px;">
 	<div class="row">
 		<div class="col-md-4">
-			<img src="{{asset('assest/img/urbanidad_y_valores.jpg')}}" aria-label="Placeholder: Thumbnail">
+			<img src="{{asset('assest/img/receta_comida_peruana.jpg')}}" aria-label="Placeholder: Thumbnail">
 		</div>
 
 		<div class="col-md-8">
