@@ -8,7 +8,15 @@
 
 		<div class="col-md-8">
 			<h2><small class="text-muted"><strong>Su Tiempo Es Oro</strong></small></h2>
-			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+			<p>Su tiempo es oro
+				El tiempo es el recurso más
+				valioso que tenemos. Su uso,
+				organización y administración
+				son factores importantes en
+				la vida de todo ser humano,
+				para poder gozar de una vida
+				sin estrés ydisfrutar de 
+				tiempo de calidad!!!</p>
             <div class="d-flex justify-content-between align-items-center">
 	          <h3><small class="text-muted">Precio USD: 4.99</small></h3>
 	          	 <div>
@@ -36,13 +44,13 @@
 							      },
 							       onCancel: function (data) {
 							   	 // Show a cancel page, or return to cart
-								 window.location.href = "https://grapsa305.com/Su-Tiempo-Es-Oro#Su-Tiempo-Es-Oro";
+								 window.location.href = "/Su-Tiempo-Es-Oro#Su-Tiempo-Es-Oro";
 							      },
 
 							      onApprove: function(data, actions) {
 							          return actions.order.capture().then(function(details) {
 							          //alert('Transaction completed by ' + details.payer.name.given_name + '!');
-								      window.location.href = "https://grapsa305.com/Su-Tiempo-Es-Oro-Descarga";	
+								      window.location.href = "su_tiempo_es_oro_descarga";	
 							          });
 							      }
 
