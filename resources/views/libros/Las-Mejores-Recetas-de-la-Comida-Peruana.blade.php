@@ -48,7 +48,7 @@
 					      onApprove: function(data, actions) {
 					          return actions.order.capture().then(function(details) {
 					          //alert('Transaction completed by ' + details.payer.name.given_name + '!');
-						      window.location.href = "Las-Mejores-Recetas-de-la-Comida-Peruana-Descarga";	
+						      window.location.href = "recetas-descarga";	
 					          });
 					      }
 

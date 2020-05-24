@@ -52,7 +52,7 @@
 					      onApprove: function(data, actions) {
 					          return actions.order.capture().then(function(details) {
 					          //alert('Transaction completed by ' + details.payer.name.given_name + '!');
-						      window.location.href = "Motivacion-para-el-Exito-Descarga";	
+						      window.location.href = "motivacion_descarga";	
 					          });
 					      }
 
