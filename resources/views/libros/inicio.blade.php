@@ -3,7 +3,7 @@
 <section class="yield">
   <main role="main">
 
-    <section class="jumbotron text-center">
+    <section class="text-center">
       <div class="container">
         <h1>Nuestra Colleción</h1>
         <!-- <p>
