@@ -1,6 +1,6 @@
 @extends('index')
 @section('content')
-<section class="container" style="padding-top:80px;" id="Guia-de-Urbanidad-y-Valores">
+<section class="container yield" id="Guia-de-Urbanidad-y-Valores">
 	<div class="row">
 		<div class="col-md-4">
 			<img src="{{asset('assest/img/urbanidad_y_valores.jpg')}}" aria-label="Placeholder: Thumbnail">

@@ -1,6 +1,6 @@
 @extends('index')
 @section('content')
-<section class="container" style="padding-top:80px;" id="Su-Tiempo-Es-Oro">
+<section class="container yield" id="Su-Tiempo-Es-Oro">
 	<div class="row">
 		<div class="col-md-4">
 			<img src="{{asset('assest/img/su_tiempo_es_oro.jpg')}}" aria-label="Placeholder: Thumbnail">

@@ -1,6 +1,6 @@
 @extends('index')
 @section('content')
-<section id="gracias_por_comprar" class="container" style="margin-top: 80px; padding-top: 80px; margin-bottom: 80px; margin-bottom: 80px">
+<section id="gracias_por_comprar" class="container yield" style="margin-top: 80px; padding-top: 80px; margin-bottom: 80px; margin-bottom: 80px">
 	<div class="container text-center" style="margin-top: 80px;">
 		<h3>
 			Gracias por tu compra.<br>

@@ -1,6 +1,6 @@
 @extends('index')
 @section('content')
-<section class="container" style="padding-top:80px;" id="Las-Mejores-Recetas-de-la-Comida-Peruana">
+<section class="container yield" id="Las-Mejores-Recetas-de-la-Comida-Peruana">
 	<div class="row">
 		<div class="col-md-4">
 			<img src="{{asset('assest/img/receta_comida_peruana.jpg')}}" aria-label="Placeholder: Thumbnail">

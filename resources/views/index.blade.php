@@ -19,6 +19,8 @@
 
     <link href="https://cdn.lineicons.com/1.0.1/LineIcons.min.css" rel="stylesheet">
 
+    <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+
     <!--====== FAVICON ICON =======-->
     <link rel="shortcut icon" type="image/ico" href="{{asset('assest/img/favicon.png')}}" />
 
@@ -36,6 +38,17 @@
         <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
         <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
+
+    <style>
+        .yield{
+            padding:150px 0
+        }
+        .mainmenu-area {
+    background: #292929;
+
+        }
+    </style>
+
 </head>
 
 <body data-spy="scroll" data-target=".mainmenu-area" data-offset="90">
@@ -45,10 +58,10 @@
     <![endif]-->
 
     <!--- PRELOADER -->
-    <div class="preeloader">
+ <!--    <div class="preeloader">
         <div class="preloader-spinner"></div>
     </div>
-
+ -->
     <!--SCROLL TO TOP-->
     <a href="#scroolup" class="scrolltotop"><i class="fa fa-long-arrow-up"></i></a>
 

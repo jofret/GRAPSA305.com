@@ -1,6 +1,6 @@
 @extends('index')
 @section('content')
-<section class="">
+<section class="yield">
   <main role="main">
 
     <section class="jumbotron text-center">
