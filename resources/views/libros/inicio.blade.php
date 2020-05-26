@@ -109,12 +109,6 @@
         </div>
       </div>
     </div>
-
-    <section class="jumbotron text-center">
-      <div class="container">
-        <h1>Nuestra Colleción</h1>
-      </div>
-    </section>
   </main>
 
 </section>
