@@ -35,7 +35,7 @@
                       <h3><small class="text-muted"><strong>Precio USD: 6.99</strong></small></h3>
                       <div class="btn-group">
                         <a href="{{url('/Guia-de-Urbanidad-y-Valores')}}#Guia-de-Urbanidad-y-Valores" type="button" class="btn btn-success">Ver más</a>
-                        <a href="{{url('/Guia-de-Urbanidad-y-Valores')}}#Guia-de-Urbanidad-y-Valores"  type="button" class="btn btn-primary" style="margin-left:4px">Comprar</a>
+                        <a href="{{url('/Guia-de-Urbanidad-y-Valores')}}#Guia-de-Urbanidad-y-Valores"  type="button" class="btn btn-primary" style="margin-left:4px">Comprar <i class="lni lni-paypal-original"></i></a>
                       </div>
                     </div>
                   </div>
@@ -52,7 +52,7 @@
                       <h3><small class="text-muted"><strong>Precio USD : 6.99</strong></small></h3>
                       <div class="btn-group">
                         <a href="{{url('/Motivacion-para-el-Exito')}}#Motivacion-para-el-Exito" type="button" class="btn btn-success">Ver más</a>
-                        <a href="{{url('/Motivacion-para-el-Exito')}}#Motivacion-para-el-Exito"  type="button" class="btn btn-primary" style="margin-left:4px">Comprar</a>
+                        <a href="{{url('/Motivacion-para-el-Exito')}}#Motivacion-para-el-Exito"  type="button" class="btn btn-primary" style="margin-left:4px">Comprar <i class="lni lni-paypal-original"></i></a>
                       </div>
                     </div>
                   </div>
@@ -70,7 +70,7 @@
                       <h3><small class="text-muted"><strong>Precio USD: 4.99</strong></small></h3>
                       <div class="btn-group">
                         <a href="{{url('Su-Tiempo-Es-Oro')}}#Su-Tiempo-Es-Oro" type="button" class="btn btn-success">Ver más</a>
-                        <a href="{{url('Su-Tiempo-Es-Oro')}}#Su-Tiempo-Es-Oro" type="button" class="btn btn-primary" style="margin-left:4px">Comprar</a>
+                        <a href="{{url('Su-Tiempo-Es-Oro')}}#Su-Tiempo-Es-Oro" type="button" class="btn btn-primary" style="margin-left:4px">Comprar <i class="lni lni-paypal-original"></i></a>
                       </div>
                     </div>
                   </div>
@@ -90,7 +90,7 @@
                       <h3><small class="text-muted"><strong>Precio USD: 6.99</strong></small></h3>
                       <div class="btn-group">
                         <a href="{{url('Las-Mejores-Recetas-de-la-Comida-Peruana')}}#Las-Mejores-Recetas-de-la-Comida-Peruana" type="button" class="btn btn-success">Ver más</a>
-                        <a href="{{url('Las-Mejores-Recetas-de-la-Comida-Peruana')}}#Las-Mejores-Recetas-de-la-Comida-Peruana" type="button" class="btn btn-primary" style="margin-left:4px">Comprar</a>
+                        <a href="{{url('Las-Mejores-Recetas-de-la-Comida-Peruana')}}#Las-Mejores-Recetas-de-la-Comida-Peruana" type="button" class="btn btn-primary" style="margin-left:4px">Comprar <i class="lni lni-paypal-original"></i></a>
                       </div>
                     </div>
                   </div>
@@ -108,7 +108,7 @@
                       <h3><small class="text-muted"><strong>Precio USD: 4.99</strong></small></h3>
                       <div class="btn-group">
                         <a href="{{url('Machu-Picchu')}}#Machu-Picchu" type="button" class="btn btn-success">Ver más</a>
-                        <a href="{{url('Machu-Picchu')}}#Machu-Picchu" type="button" class="btn btn-primary" style="margin-left:4px">Comprar</a>
+                        <a href="{{url('Machu-Picchu')}}#Machu-Picchu" type="button" class="btn btn-primary" style="margin-left:4px">Comprar <i class="lni lni-paypal-original"></i></a>
                       </div>
                     </div>
                   </div>

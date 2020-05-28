@@ -119,7 +119,7 @@ aside a:hover{
                             <ul id="nav" class="nav navbar-nav pull-right">
                                 <li class="active"><a href="#home">Inicio</a></li>
                                 <li><a href="#features">Productos</a></li>
-                                <li><a href="#courses">Noticias</a></li>
+                                <!-- <li><a href="#courses">Noticias</a></li> -->
                                 <li><a href="#contact">Contáctenos</a></li>
                             </ul>
                         </div>
@@ -173,29 +173,29 @@ aside a:hover{
                         </div>
                     </div>
                     <div class="col-md-2 col-lg-2 col-sm-4 col-xs-12">
-                        <div class="single-footer footer-list white xs-center xs-mb50">
+                        <!-- <div class="single-footer footer-list white xs-center xs-mb50">
                             <ul>
                                 <li><a href="#">Inicio</a></li>
                                 <li><a href="#">Nosotros</a></li>
                                 <li><a href="#">Noticias</a></li>
                                 <li><a href="#">Contáctenos</a></li>
                             </ul>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="col-md-5 col-lg-5 col-sm-8 col-xs-12">
                         <div class="single-footer footer-subscribe white xs-center">
-                            <h3 class="mb30 xs-font18">Subscribete a nuestro Newsletter</h3>
-                            <p>Suscribete a nuestro newsletter y obten actualizaciones sobre nuestros productos y noticias de nuestra empresa</p>
+                            <h3 class="mb30 xs-font18">Escríbenos</h3>
+                            <p>Puedes escribirnos a: <strong>fchavez192@gmail.com </strong></p>
                             <div class="subscriber-form-area mt50 wow fadeIn">
                                 <!--<form action="#" class="subscriber-form mb100">
                                     <input type="email" name="email" id="email" placeholder="Email Address">
                                     <button type="submit">Subscribe</button>
                                 </form>-->
-                                <form id="mc-form" class="subscriber-form">
+                               <!--  <form id="mc-form" class="subscriber-form">
                                     <label class="mt10" for="mc-email"></label>
                                     <input type="email" id="mc-email" placeholder="email@example.com">
                                     <button type="submit" class="plus-btn"><i class="fa fa-paper-plane-o"></i></button>
-                                </form>
+                                </form> -->
                             </div>
                         </div>
                     </div>
