@@ -14,7 +14,7 @@
 			  <div>
 			  	<div class="col-md-6">
 					<div id="paypal-button-container"></div>
-					<script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script> 
+					<script src="https://www.paypal.com/sdk/js?client-id=AZTnFaFjSU_zqETCtDnTJ3KE_-R0mqyak-3yRBk75b3MwwQ9U67vvmn6dgdhSZ6A2U_lL0tPfPbto3YD&currency=USD" data-sdk-integration-source="button-factory"></script> 
 					<script>
 					  paypal.Buttons({
 					      style: {
