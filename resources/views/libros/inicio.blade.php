@@ -1,33 +1,29 @@
 @extends('index')
 @section('content')
-<section class="yield">
+<section class="container yield">
   <div class="row">
-    <div class="col-md-3">
-      <h3>lista</h3>
+    <aside class="col-md-3">
+      <h2>Productos</h2>
       <ul>
-        <li>Libro 1</li>
-        <li>Libro 2</li>
-        <li>Libro 3</li>
-        <li>Libro 4</li>
-        <li>Libro 5</li>
+        <li><a href="{{url('Guia-de-Urbanidad-y-Valores')}}">Manual de Urbanidad y Valores</a></li>
+        <li><a href="{{url('Motivacion-para-el-Exito')}}">Motivación para el Éxito</a></li>
+        <li><a href="{{url('Su-Tiempo-Es-Oro')}}">Su Tiempo es Oro</a></li>
+        <li><a href="{{url('Las-Mejores-Recetas-de-la-Comida-Peruana')}}">Las Mejores Recetas de la Comida Peruana</a></li>
+        <li><a href="{{url('Machu-Picchu')}}">Machu Picchu</a></li>
       </ul>
-    </div>
+    </aside>
+
     <div class="col-md-9">
       <main role="main">
         <section class="text-center">
-          <div class="container">
+          <div>
             <h1 style="padding-bottom: 20px">Nuestra Colleción</h1>
-            <!-- <p>
-              <a href="#" class="btn btn-primary my-2">Main call to action</a>
-              <a href="#" class="btn btn-secondary my-2">Secondary action</a>
-            </p> -->
           </div>
         </section>
 
 
         <div class="album py-5 bg-light">
-          <div class="container">
-
+          <div>
             <div class="row">
               <div class="col-md-4" style="margin-top:20px">
                 <div class="card mb-4 shadow-sm">
@@ -45,8 +41,6 @@
                   </div>
                 </div>
               </div>
-
-              
 
               <div class="col-md-4" style="margin-top:20px">
                 <div class="card mb-4 shadow-sm">
@@ -82,6 +76,8 @@
                   </div>
                 </div>
               </div>
+
+              
 
               <div class="col-md-4" style="margin-top:20px">
                 <div class="card mb-4 shadow-sm">
@@ -120,11 +116,10 @@
               </div>
             </div>
           </div>
+
         </div>
       </main>
     </div>
   </div>
-  
-
 </section>
 @endsection

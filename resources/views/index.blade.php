@@ -43,10 +43,49 @@
         .yield{
             padding:150px 0
         }
+
+        .yield h2{
+            height:50px;
+            line-height: 25px
+        }
         .mainmenu-area {
     background: #292929;
 
         }
+
+    ul{
+        list-style: none
+    }
+
+    aside h2 {
+    border-bottom: 2px solid #737780; padding:10px 0;
+    font-size:25px;
+    font-weight: 700;
+}
+
+aside h2 {
+    font-size:20px;
+    font-weight: 700;
+}
+aside h4{
+    background:#E4E8EE;
+    font-size:16px;
+    padding: 5px 20px;
+    font-weight: 700;
+}
+
+aside ul{
+    padding-left:10px;
+}
+aside a{
+    display: block;
+    color:#030B1C;
+}
+aside a:hover{
+    text-decoration:none;
+    color:#31dc89;
+
+}
     </style>
 
 </head>
