@@ -87,7 +87,7 @@
                     <!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                     <h2><small class="text-muted"><strong>Las Mejores Recetas de la Comida Peruana</strong></small></h2>
                     <div class="d-flex justify-content-between align-items-center">
-                      <h3><small class="text-muted"><strong>Precio USD: 6.99</strong></small></h3>
+                      <h3><small class="text-muted"><strong>Precio USD: 9.99</strong></small></h3>
                       <div class="btn-group">
                         <a href="{{url('Las-Mejores-Recetas-de-la-Comida-Peruana')}}#Las-Mejores-Recetas-de-la-Comida-Peruana" type="button" class="btn btn-success">Ver más</a>
                         <a href="{{url('Las-Mejores-Recetas-de-la-Comida-Peruana')}}#Las-Mejores-Recetas-de-la-Comida-Peruana" type="button" class="btn btn-primary" style="margin-left:4px">Comprar <i class="lni lni-paypal-original"></i></a>
@@ -105,7 +105,7 @@
                     <!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                     <h2><small class="text-muted"><strong>Machu Picchu</strong></small></h2>
                     <div class="d-flex justify-content-between align-items-center">
-                      <h3><small class="text-muted"><strong>Precio USD: 4.99</strong></small></h3>
+                      <h3><small class="text-muted"><strong>Precio USD: 9.99</strong></small></h3>
                       <div class="btn-group">
                         <a href="{{url('Machu-Picchu')}}#Machu-Picchu" type="button" class="btn btn-success">Ver más</a>
                         <a href="{{url('Machu-Picchu')}}#Machu-Picchu" type="button" class="btn btn-primary" style="margin-left:4px">Comprar <i class="lni lni-paypal-original"></i></a>

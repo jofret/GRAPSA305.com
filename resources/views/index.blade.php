@@ -117,8 +117,8 @@ aside a:hover{
                         </div>
                         <div id="main-nav" class="stellarnav">
                             <ul id="nav" class="nav navbar-nav pull-right">
-                                <li class="active"><a href="#home">Inicio</a></li>
-                                <li><a href="#features">Productos</a></li>
+                                <li class="active"><a href="{{url('/')}}">Inicio</a></li>
+                                <li><a href="{{url('/')}}#productos">Productos</a></li>
                                 <!-- <li><a href="#courses">Noticias</a></li> -->
                                 <li><a href="#contact">Contáctenos</a></li>
                             </ul>
@@ -128,7 +128,7 @@ aside a:hover{
             </div>
             <!--END MAINMENU AREA END-->
         </div>
-
+        <div id="productos"></div>
         <!--WELCOME SLIDER AREA-->
         @yield('content')
         <!--WELCOME SLIDER AREA END-->
@@ -185,7 +185,7 @@ aside a:hover{
                     <div class="col-md-5 col-lg-5 col-sm-8 col-xs-12">
                         <div class="single-footer footer-subscribe white xs-center">
                             <h3 class="mb30 xs-font18">Escríbenos</h3>
-                            <p>Puedes escribirnos a: <strong>fchavez192@gmail.com </strong></p>
+                            <p>Puedes escribirnos a: <strong>fchavez192@yahoo.com </strong></p>
                             <div class="subscriber-form-area mt50 wow fadeIn">
                                 <!--<form action="#" class="subscriber-form mb100">
                                     <input type="email" name="email" id="email" placeholder="Email Address">
@@ -202,7 +202,7 @@ aside a:hover{
                 </div>
             </div>
         </div>
-        <div class="footer-bottom-area white">
+        <div id="contact" class="footer-bottom-area white">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">

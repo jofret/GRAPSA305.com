@@ -35,7 +35,7 @@
 					          return actions.order.create({
 					              purchase_units: [{
 					                  amount: {
-					                      value: '6.99'
+					                      value: '9.99'
 					                  }
 					              }]
 					          });
