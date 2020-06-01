@@ -8,7 +8,7 @@
 
 		<div class="col-md-8">
 			<h2><small class="text-muted"><strong>Machu Picchu</strong></small></h2>
-			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+			<p>El libro que les brindamos a continuación es un homenaje a esta maravilla del mundo y a sus más de 100 años de reconocimiento mundial.<br> Las diferentes fotografías que presentamos han sido cuidadosamente seleccionadas para que el lector sienta la magia y el misticismo que siente aquella persona que visita Machu Picchu una y otra vez.</p>
             <div class="d-flex justify-content-between align-items-center">
 	          <h3><small class="text-muted"><strong>Precio USD: 6.99</strong></small></h3>
 			  <div>
